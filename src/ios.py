@@ -1,4 +1,5 @@
-import secrets, string
+import secrets
+import string
 
 LOWERCASE, UPPERCASE, DIGITS, HYPHEN = (
     string.ascii_lowercase,

@@ -44,3 +44,5 @@ def generate_with_rules(rules):           # 对应 passwordrules / UITextInputPa
     return "".join(required + rest)
 
 ```
+
+## 71 位熵的含义
